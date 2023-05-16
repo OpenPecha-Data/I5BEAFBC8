@@ -1,0 +1,18 @@
+id: I5BEAFBC8
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:16.926893
+last_modified: 2023-01-04 11:28:16.926910
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  6B55:
+    title: Brief Biography of Drakkar Lobzang Palden
+    base_file: 6B55.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
